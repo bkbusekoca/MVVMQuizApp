@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "91F92252-FB5D-441E-ABC9-A50688B647C6"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B748FB8C-65FF-4EC0-B69F-86300F376BE7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MVVMINSwift/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B748FB8C-65FF-4EC0-B69F-86300F376BE7 - fb34c92b28b21dd6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMINSwift.ViewController.tabelView.getter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "MVVMINSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busekoca/Desktop/MVVMINSwift/MVVMINSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "B748FB8C-65FF-4EC0-B69F-86300F376BE7 - 343a32b7e9f2e1da"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMINSwift.ViewController.tabelView.setter : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "MVVMINSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busekoca/Desktop/MVVMINSwift/MVVMINSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "B748FB8C-65FF-4EC0-B69F-86300F376BE7 - c10fdd70349ed8d5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMINSwift.ViewController.tabelView.modify : Swift.Optional&lt;__C.UITableView&gt;"
+                  moduleName = "MVVMINSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busekoca/Desktop/MVVMINSwift/MVVMINSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "B748FB8C-65FF-4EC0-B69F-86300F376BE7 - 8ef0a449098551a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMINSwift.ViewController.tabelView.modify : Swift.Optional&lt;__C.UITableView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "MVVMINSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busekoca/Desktop/MVVMINSwift/MVVMINSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "B748FB8C-65FF-4EC0-B69F-86300F376BE7 - 2ae3b72c07653c0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMINSwift.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; MVVMINSwift.ViewController"
+                  moduleName = "MVVMINSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busekoca/Desktop/MVVMINSwift/MVVMINSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "B748FB8C-65FF-4EC0-B69F-86300F376BE7 - b0387bf4e74ebc4c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MVVMINSwift.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;MVVMINSwift.ViewController&gt;"
+                  moduleName = "MVVMINSwift"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/busekoca/Desktop/MVVMINSwift/MVVMINSwift/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
